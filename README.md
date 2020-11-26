@@ -2,7 +2,7 @@
 
 😄Hi Everyone, I am student develper.
 
-![CeylonPark's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+![CeylonPark's github stats](https://github-readme-stats.vercel.app/api?username=CeylonPark&show_icons=true)
 
 <!--
 **CeylonPark/CeylonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
